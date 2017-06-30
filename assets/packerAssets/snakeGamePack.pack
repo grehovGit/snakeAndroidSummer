@@ -1,0 +1,117 @@
+
+packerAssets1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ItemsAtlas512
+  rotate: false
+  xy: 0, 0
+  size: 1280, 1280
+  orig: 1280, 1280
+  offset: 0, 0
+  index: -1
+treeHurtUp
+  rotate: false
+  xy: 1280, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+treeHurtDown
+  rotate: false
+  xy: 1408, 0
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+seedSmileDamage
+  rotate: false
+  xy: 1408, 64
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+seedSmile
+  rotate: false
+  xy: 1472, 64
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+seedMinerDamage
+  rotate: false
+  xy: 1536, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+seedMiner
+  rotate: false
+  xy: 1536, 64
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+seedMadDamage
+  rotate: false
+  xy: 1600, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+seedMad
+  rotate: false
+  xy: 1600, 64
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+seedHurtDamage
+  rotate: false
+  xy: 1664, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+seedHurt
+  rotate: false
+  xy: 1664, 64
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+seedBeatDamage
+  rotate: false
+  xy: 1728, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+seedBeat
+  rotate: false
+  xy: 1728, 64
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+treeHurtItem
+  rotate: false
+  xy: 1792, 0
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+treeHurtThorn
+  rotate: false
+  xy: 1792, 32
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+treeHurtHurt
+  rotate: false
+  xy: 1824, 32
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
